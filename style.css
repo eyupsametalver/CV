@@ -1,0 +1,92 @@
+.background{
+    background-color: #0c020259;
+}
+.right-side  #top-side #name{
+    font-family: "Bebas Neue", serif;
+    font-size: 50px;
+}
+img{
+    border: 5px solid white;
+    width:90%;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 1.8rem;
+    
+}
+.wrap{
+    color: #163853;
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid black;
+
+}
+.left-side{
+    background-color: #163753;
+    width: 30%;
+    padding: 20px;
+    color: white;
+    padding-right: 50px;
+}
+.right-side{
+background-color: white;
+width: 70%;
+padding: 20px;
+}
+ .righ-side #top-side #name {
+    margin-top: 100px;
+}
+.right-side #top-side #name1{
+    margin-top: -105px;
+    margin-left: 190px;
+    font-size: 50px;
+}
+.right-side #top-side #name2{
+    margin-top: -50px;
+}
+#educations{
+    margin-top: 50px;
+}
+hr{
+    border: 2px solid #163853;
+}
+.left-side section hr{
+    border: 2px solid white
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    opacity: 50%;
+}
+#summary{
+    padding: 20px;
+}
+#about-me #summary{
+    position: relative;
+    left: 20px;
+}
+#about-me #summary1{
+    position: relative;
+    left: 40px;
+    margin-bottom: -30px;
+}
+#about-me ul li {
+    list-style: none;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.left-side #skills{
+    padding: 30px;
+}
+.left-side #langs{
+    padding: 30px;
+}
+#langs ul li {
+    margin-bottom: 10px;
+}
+#skills ul li{
+    margin-bottom: 10px;
+}
